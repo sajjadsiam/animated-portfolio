@@ -8,9 +8,9 @@ While this project uses React, Vite supports many popular JS frameworks. [See al
 
 Deploy your own Vite project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
+[![Deploy with Vercel](https://animated-portfolio-demo.vercel.app/)](https://animated-portfolio-demo.vercel.app/)
 
-_Live Example: https://vite-react-example.vercel.app_
+_Live Example: [https://vite-react-example.vercel.app_](https://animated-portfolio-demo.vercel.app/)
 
 ### Deploying From Your Terminal
 
