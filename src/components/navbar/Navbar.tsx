@@ -7,6 +7,7 @@ export const Navbar = () => {
     {/* sidebar */}
 
     <div className="wrapper">
+
       <span>Sajjad Siam</span>
       <div className="social">
         <a href="https://www.facebook.com/sajjadsiam"> <img src="/facebook.png" alt="" /> </a>
